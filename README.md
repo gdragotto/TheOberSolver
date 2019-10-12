@@ -5,6 +5,7 @@ TheObersolver is a pre-release software for solving the [Oberwolfach Problem](ht
 This software uses [Choco Solver](http://www.choco-solver.org) and can be run as well with [IBM CPLEX](https://developer.ibm.com/academic/). As for the former one, scholars are entitled to obtain a free license via the IBM Academic Initiative.
 
 See section [releases](https://github.com/ALCO-PoliTO/TheOberSolver/releases) for current release.
+For support on the code: [Gabriele](http://dragotto.net)
 
 ## License
 
